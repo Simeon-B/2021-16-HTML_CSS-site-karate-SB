@@ -1,13 +1,10 @@
+/* ************** */
+/* CSS global     */
+/* ************** ************** ************** ************** */
+
 /* Style texte */
 @import url('https://fonts.googleapis.com/css2?family=Castoro&family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,700;0,800;1,300;1,400&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-/*
-    font-family: 'Castoro', serif;
-    font-family: 'Lora', serif;
-    font-family: 'Merriweather Sans', sans-serif;
-    font-family: 'Open Sans', sans-serif;
-                                                     */
 
-/* CSS Global */
 body {
     background-color: #000000;
     color: #FFFFFF;
@@ -16,6 +13,11 @@ body {
     font-family: 'Merriweather Sans', sans-serif;
     font-weight: 400;
 }
+
+h1 {
+
+}
+
 img {
     max-width: 100%;
     height: auto;
@@ -25,11 +27,47 @@ a {
 
 }
 
+/* ************** */
+/* CSS par page précis */
+/* ************** ************** ************** ************** */
+
+/* ************** */
 /* CSS accueil */
+/* ************** */
+
+/* ************** */
+/* CSS logo       */
+/* ************** */
+header div .logo-kanji {
+    margin: 10% 10%;
+    width: 10%;
+    position: absolute;
+    top: 1%;
+    left: 0;
+}
+
+header div .logo-combat {
+    margin: 10% 10%;
+    width: 30%;
+    position: absolute;
+    top: 1%;
+    left: 18%;
+    z-index: 1;
+}
+
+header div .logo-solei {
+    margin: 10% 10%;
+    width: 25%;
+    position: absolute;
+    top: 1.5%;
+    left: 23%;
+}
+
 body .accueil {
     background-color: #EEE1DC;
 }
 
 .menu-shoto {
+    width: 20px;
     fill: green;
 }
