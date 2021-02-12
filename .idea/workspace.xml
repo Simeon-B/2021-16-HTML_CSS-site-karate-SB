@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b9fde71-3290-41d3-8a2c-e9f4c3529c9e" name="Default Changelist" comment="" />
+    <list default="true" id="0b9fde71-3290-41d3-8a2c-e9f4c3529c9e" name="Default Changelist" comment="début sur l'accueil html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/accueil.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1o442RFtvX8hXIzAfh3G3IwONHb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,11 +49,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612532321445</updated>
-      <workItem from="1612532322554" duration="5591000" />
+      <workItem from="1612532322554" duration="6033000" />
+      <workItem from="1612539880037" duration="643000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="début sur l'accueil html" />
+    <option name="LAST_COMMIT_MESSAGE" value="début sur l'accueil html" />
   </component>
 </project>
