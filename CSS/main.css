@@ -50,6 +50,15 @@ h2 {
 /* ************** ************** ************** ************** */
 
 /* ************** */
+/* CSS accueil body*/
+/* ************** */
+
+body.accueil {
+    background: #9CBDE2 url(../img/Brouillard.jpg) no-repeat;
+    background-size: 1000px;
+}
+
+/* ************** */
 /* CSS logo accueil */
 /* ************** */
 
@@ -85,7 +94,7 @@ header div .logo-solei {
 }
 
 /* ************** */
-/* CSS accueil */
+/* CSS accueil menu */
 /* ************** */
 
 header ul.menu-liste {
@@ -118,3 +127,18 @@ header ul.menu-liste svg {
     fill: green;
     float: right;
 }
+
+/* ************** */
+/* CSS accueil main */
+/* ************** */
+
+body.accueil main {
+    padding: 50px 20px 60px 20px;
+    background: linear-gradient(transparent, #DFD6DC, #DFD6DC, #9CBDE2, #9CBDE2, #87A881, #9CBDE2, #9CBDE2);
+    color: black;
+}
+
+body.accueil main h1 {
+    color: blue;
+}
+

@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b9fde71-3290-41d3-8a2c-e9f4c3529c9e" name="Default Changelist" comment="début sur l'accueil html">
+    <list default="true" id="0b9fde71-3290-41d3-8a2c-e9f4c3529c9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/Sesam.svg" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/Sesam.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../HTML_Exemple" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../modules/ICT M101 HTML CSS 1/WebstormProjects/Web-baby" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -60,8 +59,16 @@
       <workItem from="1614321076387" duration="1845000" />
       <workItem from="1614595074951" duration="309000" />
       <workItem from="1615896850772" duration="341000" />
-      <workItem from="1615897218841" duration="5288000" />
+      <workItem from="1615897218841" duration="9382000" />
     </task>
+    <task id="LOCAL-00001" summary="début sur l'accueil html 2">
+      <created>1615903065540</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615903065540</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,6 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="début sur l'accueil html" />
-    <option name="LAST_COMMIT_MESSAGE" value="début sur l'accueil html" />
+    <MESSAGE value="début sur l'accueil html 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="début sur l'accueil html 2" />
   </component>
 </project>
