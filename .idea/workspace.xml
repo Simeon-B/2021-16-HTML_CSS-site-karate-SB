@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0b9fde71-3290-41d3-8a2c-e9f4c3529c9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specificite.html" beforeDir="false" afterPath="$PROJECT_DIR$/specificite.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
       <workItem from="1615919669141" duration="6575000" />
       <workItem from="1615958282315" duration="3988000" />
       <workItem from="1615966896490" duration="2653000" />
-      <workItem from="1615975930196" duration="1884000" />
+      <workItem from="1615975930196" duration="12760000" />
     </task>
     <task id="LOCAL-00001" summary="début sur l'accueil html 2">
       <created>1615903065540</created>
@@ -113,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615971519000</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Premier point de réussite de la page accueil">
+      <created>1615978367719</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615978367719</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +135,7 @@
     <MESSAGE value="tester entourer une image avec du texte" />
     <MESSAGE value="tester entourer une image avec du texte 2" />
     <MESSAGE value="tester entourer une image avec du texte 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="tester entourer une image avec du texte 3" />
+    <MESSAGE value="Premier point de réussite de la page accueil" />
+    <option name="LAST_COMMIT_MESSAGE" value="Premier point de réussite de la page accueil" />
   </component>
 </project>
