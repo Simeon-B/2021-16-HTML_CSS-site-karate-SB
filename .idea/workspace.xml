@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0b9fde71-3290-41d3-8a2c-e9f4c3529c9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/responsive-index.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/responsive-index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/specificite.html" beforeDir="false" afterPath="$PROJECT_DIR$/specificite.html" afterDir="false" />
     </list>
@@ -63,7 +65,9 @@
       <workItem from="1615919669141" duration="6575000" />
       <workItem from="1615958282315" duration="3988000" />
       <workItem from="1615966896490" duration="2653000" />
-      <workItem from="1615975930196" duration="12760000" />
+      <workItem from="1615975930196" duration="12816000" />
+      <workItem from="1615993831604" duration="507000" />
+      <workItem from="1616000982582" duration="2427000" />
     </task>
     <task id="LOCAL-00001" summary="début sur l'accueil html 2">
       <created>1615903065540</created>
@@ -121,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615978367719</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Commencer la page spécificité">
+      <created>1615992955877</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615992955877</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +147,7 @@
     <MESSAGE value="tester entourer une image avec du texte 2" />
     <MESSAGE value="tester entourer une image avec du texte 3" />
     <MESSAGE value="Premier point de réussite de la page accueil" />
-    <option name="LAST_COMMIT_MESSAGE" value="Premier point de réussite de la page accueil" />
+    <MESSAGE value="Commencer la page spécificité" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commencer la page spécificité" />
   </component>
 </project>

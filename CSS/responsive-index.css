@@ -18,6 +18,66 @@
 	}
 }
 
+@media screen and (min-width: 360px){
+	body.accueil main div .tour-image {
+		height: 580px;
+		shape-outside: polygon(300px 180px, 300px 550px, 0 550px, 0 490px, 35px 470px, 39px 410px, 141px 340px, 156px 260px, 180px 210px, 225px 180px);
+	}
+
+	body.accueil .pseudofooter img {
+		top: 170px;
+	}
+
+	body.accueil .pseudofooter a.verlehaut {
+		top: 470px;
+	}
+}
+
+@media screen and (min-width: 380px){
+	body.accueil main div .tour-image {
+		height: 520px;
+		shape-outside: polygon(300px 150px, 300px 520px, 0 520px, 0 460px, 35px 440px, 39px 380px, 141px 310px, 156px 210px, 180px 180px, 225px 150px);
+	}
+
+	body.accueil .pseudofooter img {
+		top: 140px;
+	}
+
+	body.accueil .pseudofooter a.verlehaut {
+		top: 430px;
+	}
+}
+
+@media screen and (min-width: 430px){
+	body.accueil main div .tour-image {
+		height: 450px;
+		shape-outside: polygon(300px 80px, 300px 450px, 0 450px, 0 390px, 35px 370px, 39px 310px, 141px 240px, 156px 160px, 180px 110px, 225px 80px);
+	}
+
+	body.accueil .pseudofooter img {
+		top: 70px;
+	}
+
+	body.accueil .pseudofooter a.verlehaut {
+		top: 360px;
+	}
+}
+
+@media screen and (min-width: 460px){
+	body.accueil main div .tour-image {
+		height: 400px;
+		shape-outside: polygon(300px 30px, 300px 400px, 0 400px, 0 340px, 35px 320px, 39px 260px, 141px 190px, 156px 110px, 180px 60px, 225px 30px);
+	}
+
+	body.accueil .pseudofooter img {
+		top: 20px;
+	}
+
+	body.accueil .pseudofooter a.verlehaut {
+		top: 320px;
+	}
+}
+
 @media screen and (min-width: 350px){
 
 	body.accueil {
@@ -54,7 +114,12 @@
 	}
 
 	header ul.menu-liste {
-		margin: 5px 10% 0 10%;
+		margin: 5px auto 0 auto;
+		max-width: 680px;
+	}
+
+	header ul.menu-liste li {
+		margin: 2.5% auto;
 	}
 }
 
@@ -91,7 +156,7 @@
 @media screen and (min-width: 1200px){
 
 	body.accueil {
-		background-size: 1600px;
+		background-size: 120%;
 	}
 
 	header div.logo-ensemble {
@@ -113,6 +178,13 @@
 	}
 	header ul.menu-liste {
 		margin: 20px 10% 0 10%;
+	}
+}
+
+@media screen and (min-width: 1400px){
+
+	body.accueil {
+		background-size: 140%;
 	}
 }
 
