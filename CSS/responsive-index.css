@@ -1,0 +1,123 @@
+@media screen and (max-width: 349px){
+	header div.logo-ensemble {
+		width: 157px;
+	}
+	header div .logo-combat {
+		margin: 20px 0;
+		width: 47px;
+		top: 3px;
+		left: 50px;
+		z-index: 1;
+	}
+
+	header div .logo-solei {
+		margin: 20px 0;
+		width: 35px;
+		top: 8px;
+		left: 59px;
+	}
+}
+
+@media screen and (min-width: 350px){
+
+	body.accueil {
+		background-size: 1200px;
+	}
+
+	header ul.menu-liste {
+		margin: 0 10% 0 10%;
+	}
+}
+
+@media screen and (min-width: 660px){
+
+	body.accueil {
+		background-size: 1400px;
+	}
+
+	header div.logo-ensemble {
+		width: 40%;
+	}
+	header div .logo-combat {
+		margin: 4% 0;
+		width: 12%;
+		top: 0.8%;
+		left: 14.4%;
+		z-index: 1;
+	}
+
+	header div .logo-solei {
+		margin: 4% 0;
+		width: 10%;
+		top: 2.4%;
+		left: 16.8%;
+	}
+
+	header ul.menu-liste {
+		margin: 5px 10% 0 10%;
+	}
+}
+
+@media screen and (min-width: 900px){
+
+	body.accueil {
+		background-size: 1500px;
+	}
+
+	header div.logo-ensemble {
+		width: 30%;
+	}
+
+	header div .logo-combat {
+		margin: 3% 0;
+		width: 9%;
+		top: 0.6%;
+		left: 10.8%;
+		z-index: 1;
+	}
+
+	header div .logo-solei {
+		margin: 3% 0;
+		width: 7.5%;
+		top: 1.8%;
+		left: 12.6%;
+	}
+
+	header ul.menu-liste {
+		margin: 10px 10% 0 10%;
+	}
+}
+
+@media screen and (min-width: 1200px){
+
+	body.accueil {
+		background-size: 1600px;
+	}
+
+	header div.logo-ensemble {
+		width: 25%;
+	}
+	header div .logo-combat {
+		margin: 2.5% 0;
+		width: 7.5%;
+		top: 0.5%;
+		left: 9%;
+		z-index: 1;
+	}
+
+	header div .logo-solei {
+		margin: 2.5% 0;
+		width: 6.25%;
+		top: 1.5%;
+		left: 10.5%;
+	}
+	header ul.menu-liste {
+		margin: 20px 10% 0 10%;
+	}
+}
+
+@media screen and (min-width: 1590px){
+	header ul.menu-liste {
+		margin: 30px 10% 0 10%;
+	}
+}
