@@ -12,6 +12,7 @@ body {
     line-height: 1.4;
     font-family: 'Merriweather Sans', sans-serif;
     font-weight: 400;
+    min-width: 300px;
 }
 
 img {
@@ -124,7 +125,7 @@ header ul.menu-liste span {
 header ul.menu-liste svg {
     margin: -0.4rem 1.2rem 0 0;
     width: 1.2rem;
-    fill: green;
+    fill: black;
     float: right;
 }
 
@@ -141,18 +142,13 @@ body.accueil main {
 body.accueil main h1 {
     color: blue;
 }
-
-body.accueil main div.contenaire {
-    vertical-align: bottom;
-}
-
+/* à alignéer yu fond */
 body.accueil main div .tour-image {
-    vertical-align: bottom;
     padding: 0 0 0 0;
     width: 300px;
-    height: 600px;
+    height: 400px;
     float: right;
-    shape-outside: polygon(300px 228px, 300px 600px, 0 600px, 0 540px, 39px 522px, 13% 78%, 47% 68%, 52% 50%, 60% 42%, 75% 38%);
+    shape-outside: polygon(300px 40px, 300px 400px, 0 400px, 0 350px, 35px 330px, 39px 288px, 141px 218px, 156px 110px, 180px 80px, 225px 40px);
 }
 
 /* ************** */
