@@ -32,7 +32,7 @@ h1 {
     font-family: 'Castoro', sans-serif;
     font-weight: 600;
     font-size: 2rem;
-    margin: 5% 0 5%;
+    margin: 5% 0 10% 0;
 }
 
 h2 {
@@ -44,4 +44,114 @@ h2 {
 
 .center {
     text-align: center;
+}
+
+/* ************** */
+/* CSS header */
+/* ************** */
+
+header .menu {
+    width: 200px;
+    --centrage: calc(50% - 100px);      /* créer une variable pour pouvoir centrer le menu */
+    display: inline-block;
+    margin: 0 var(--centrage) 0 var(--centrage);
+    color: #9CBDE2;
+}
+
+header .bouton-menu {
+    position: relative;                 /* mettre en relative pour pouvoire maitre les trapèse en absolut */
+    padding: 10px;
+    text-align: center;
+}
+
+header .menu .menu-texte {
+    position: absolute;
+    margin: 0 0;
+    width: 80px;
+    height: 25px;
+    left: 60px;
+    z-index: 3;
+}
+
+header .trapese {                       /* créer un trapèse comme menu, la div est sous le menu et c'est la bordure du haut qui donne cet effet */
+    position: absolute;
+    top: -20px;
+    height: 0;
+    width: 120px;
+    border-top: 60px solid RGB(0, 0, 0);    /* hauteur et couleur de la bordure */
+    border-left: 30px solid transparent;    /* de combien la bordure est plus large en haut*/
+    border-right: 30px solid transparent;
+    z-index: 2;                            /* placer le trapèse derrière le texte */
+}
+
+header .trapese2 {               /* créer un trapèse un peut plus grand pour faire la l'effet de la bordure bleu*/
+    position: absolute;
+    top: -20px;
+    left: 6px;
+    height: 0;
+    width: 128px;
+    border-top: 64px solid RGB(0, 0, 255);
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    z-index: 1;
+}
+
+header .scroll-menu {
+    width: 175px;
+    display: none;
+    text-align: center;
+}
+
+header .scroll-menu ul {
+    padding: 0 0;
+    margin: 5px 0;
+}
+
+header .scroll-menu ul li {
+    list-style-type: none;
+    margin: 0 auto;
+    width: 120px;
+    height: 35px;
+}
+
+header .scroll-menu  ul a {
+    padding: 0 20px;
+}
+
+header .menu:hover .scroll-menu{
+    display: inline;
+    position: absolute;
+    top: -60px;
+    background-color: black;
+    padding: 110px 10px 0 10px;
+    border: 4px solid RGB(0, 0, 255);
+    z-index: 0;
+}
+/* ************** */
+/* CSS main */
+/* ************** */
+
+main {
+    margin: 40px 0 0 0;
+}
+
+main .bordure {
+    margin: 0 10px;
+    padding: 0 0;
+}
+
+/* ************** */
+/* CSS footer */
+/* ************** */
+
+footer {
+    margin: 0 0 ;
+    padding: 0 20px 20px 0;
+    height:  80px;
+}
+
+footer .verlehaut {
+    width: 50px;
+    fill: #9CBDE2;
+    float: right;
 }
