@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0b9fde71-3290-41d3-8a2c-e9f4c3529c9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/main-index.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/main-index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/specificite.html" beforeDir="false" afterPath="$PROJECT_DIR$/specificite.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philosophie.html" beforeDir="false" afterPath="$PROJECT_DIR$/philosophie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/techniques.html" beforeDir="false" afterPath="$PROJECT_DIR$/techniques.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,8 @@
       <workItem from="1616000982582" duration="5083000" />
       <workItem from="1616049265351" duration="123000" />
       <workItem from="1616051289355" duration="991000" />
-      <workItem from="1616087780867" duration="7244000" />
+      <workItem from="1616087780867" duration="7325000" />
+      <workItem from="1616132834051" duration="1756000" />
     </task>
     <task id="LOCAL-00001" summary="début sur l'accueil html 2">
       <created>1615903065540</created>
@@ -148,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616012550930</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Beaucoup de CSS">
+      <created>1616101842167</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1616101842167</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +173,7 @@
     <MESSAGE value="Commencer la page spécificité" />
     <MESSAGE value="reorganisation des fichiers CSS" />
     <MESSAGE value="début du CSS commun au pages, mais pas à l'index" />
-    <option name="LAST_COMMIT_MESSAGE" value="début du CSS commun au pages, mais pas à l'index" />
+    <MESSAGE value="Beaucoup de CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beaucoup de CSS" />
   </component>
 </project>
