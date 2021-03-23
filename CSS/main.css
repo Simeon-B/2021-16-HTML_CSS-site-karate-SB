@@ -175,28 +175,37 @@ body main .txt-funakoshi {
 /* CSS Techniques */
 /* ************** */
 
-body main .img-technique {
+.specifite main .img-technique {
     width: 100%;
     position: relative;
     z-index: -1;
 }
 
-body main .img-technique .technique1 {
+.specifite main .img-technique .technique1 {
     position: relative;
     background: url("../img/Karate-arme.png") ;
     background-size: cover;
     background-position: top 0 left 50%;
     display: inline-block;
     width: 50%;
-    height: 250px;                  /* hauteur à dinamiser*/
+    height: 45vw;
 }
 
-body main .img-technique .technique2 {
+.specifite main .img-technique .technique2 {
     position: relative;
     background: url("../img/self-defense.jpg") ;
     background-size: cover;
     background-position: center;
     display: inline-block;
     width: 50%;
-    height: 250px;
+    height: 45vw;
+}
+
+/* liste des point de contact */
+.specifite main .point-contact li div + div {
+    display: none;
+}
+
+.specifite main .point-contact li div:target + div {
+    display: block;
 }

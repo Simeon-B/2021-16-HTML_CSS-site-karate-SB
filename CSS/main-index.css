@@ -96,7 +96,7 @@ body.accueil {
 body.accueil main {
     padding: 30px 20px 60px 20px;
     min-height: 500px;
-    background: linear-gradient(transparent, #DFD6DC, #DFD6DC, #9CBDE2, #9CBDE2, #87A881, #87A881, #9CBDE2, #9CBDE2, transparent);
+    background: linear-gradient(transparent, #DFD6DC, #DFD6DC, #9CBDE2, #9CBDE2, #9CBDE2, #9CBDE2, #9CBDE2, #87A881, #87A881, #9CBDE2, transparent);
     color: black;
 }
 
