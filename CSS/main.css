@@ -136,7 +136,8 @@ main {
 }
 
 main .bordure {
-    margin: 0 10px;
+    width: 90%;
+    margin: 0 auto;
     padding: 0 0;
 }
 
@@ -154,4 +155,48 @@ footer .verlehaut {
     width: 50px;
     fill: #9CBDE2;
     float: right;
+}
+
+/* ************** ************** ************** ************** */
+/* CSS Philosophie */
+/* ************** */
+
+body main .funakoshi {
+    width: 90%;
+    margin: 5px auto;
+}
+
+body main .txt-funakoshi {
+    font-size: 2rem;
+    color: #FFC000;
+}
+
+/* ************** ************** ************** ************** */
+/* CSS Techniques */
+/* ************** */
+
+body main .img-technique {
+    width: 100%;
+    position: relative;
+    z-index: -1;
+}
+
+body main .img-technique .technique1 {
+    position: relative;
+    background: url("../img/Karate-arme.png") ;
+    background-size: cover;
+    background-position: top 0 left 50%;
+    display: inline-block;
+    width: 50%;
+    height: 250px;                  /* hauteur à dinamiser*/
+}
+
+body main .img-technique .technique2 {
+    position: relative;
+    background: url("../img/self-defense.jpg") ;
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    width: 50%;
+    height: 250px;
 }
