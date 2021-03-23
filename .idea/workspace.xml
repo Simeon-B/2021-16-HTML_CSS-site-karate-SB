@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="0b9fde71-3290-41d3-8a2c-e9f4c3529c9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/athlete.html" beforeDir="false" afterPath="$PROJECT_DIR$/athlete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/materiel.html" beforeDir="false" afterPath="$PROJECT_DIR$/materiel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philosophie.html" beforeDir="false" afterPath="$PROJECT_DIR$/philosophie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sante.html" beforeDir="false" afterPath="$PROJECT_DIR$/sante.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specificite.html" beforeDir="false" afterPath="$PROJECT_DIR$/specificite.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/techniques.html" beforeDir="false" afterPath="$PROJECT_DIR$/techniques.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +79,7 @@
       <workItem from="1616145197454" duration="314000" />
       <workItem from="1616170054140" duration="2756000" />
       <workItem from="1616479988361" duration="1544000" />
-      <workItem from="1616502669913" duration="1336000" />
+      <workItem from="1616502669913" duration="2265000" />
     </task>
     <task id="LOCAL-00001" summary="début sur l'accueil html 2">
       <created>1615903065540</created>
@@ -173,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616502763077</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="à page techniques.html ajouter les points de contact">
+      <created>1616504213584</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1616504213584</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +207,7 @@
     <MESSAGE value="Beaucoup de CSS" />
     <MESSAGE value="Page philosophie" />
     <MESSAGE value="Début de la page techniques.html + ajouter des images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Début de la page techniques.html + ajouter des images" />
+    <MESSAGE value="à page techniques.html ajouter les points de contact" />
+    <option name="LAST_COMMIT_MESSAGE" value="à page techniques.html ajouter les points de contact" />
   </component>
 </project>
