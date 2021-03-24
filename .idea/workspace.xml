@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b9fde71-3290-41d3-8a2c-e9f4c3529c9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/techniques.html" beforeDir="false" afterPath="$PROJECT_DIR$/techniques.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +75,8 @@
       <workItem from="1616479988361" duration="1544000" />
       <workItem from="1616502669913" duration="11846000" />
       <workItem from="1616565468583" duration="647000" />
-      <workItem from="1616567846526" duration="3025000" />
+      <workItem from="1616567846526" duration="3055000" />
+      <workItem from="1616574224156" duration="469000" />
     </task>
     <task id="LOCAL-00001" summary="début sur l'accueil html 2">
       <created>1615903065540</created>
@@ -204,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616515070699</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="techniques.html: travailler le tableau pour les katas">
+      <created>1616570920586</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1616570920586</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +236,7 @@
     <MESSAGE value="mis la langue française" />
     <MESSAGE value="techniques.html: mettre les images des points de contact en accordéon" />
     <MESSAGE value="techniques.html: commencer le tableau pour les katas" />
-    <option name="LAST_COMMIT_MESSAGE" value="techniques.html: commencer le tableau pour les katas" />
+    <MESSAGE value="techniques.html: travailler le tableau pour les katas" />
+    <option name="LAST_COMMIT_MESSAGE" value="techniques.html: travailler le tableau pour les katas" />
   </component>
 </project>
