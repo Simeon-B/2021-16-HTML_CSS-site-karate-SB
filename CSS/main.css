@@ -16,11 +16,13 @@ body {
 }
 
 img {
-    max-width: 100%;
-    max-height: 100%;
     height: auto;
     width: auto;
+}
 
+.maximg, .maximg img {
+    max-width: 100%;
+    max-height: 100%;
 }
 
 a {
@@ -134,6 +136,7 @@ header .menu:hover .scroll-menu {
 /* CSS main */
 /* ************** */
 
+
 main {
     margin: 40px 0 0 0;
 }
@@ -205,10 +208,28 @@ footer .verlehaut {
 }
 
 /* liste des point de contact */
+.technique main .point-contact li {
+    position: relative;
+}
+
 .technique main .point-contact .img {
     width: 100%;
     background-color: #FFFFFF;
     text-align: center;
+}
+
+.technique main .point-contact .fermer {
+    background-color: silver;
+    color: dimgray;
+    text-align: center;
+    margin: 0 0;
+    padding: 2px;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 35px;
+    left: 15px;
+    z-index: 6;
 }
 
 .technique main .point-contact .dim-normal {
@@ -227,33 +248,73 @@ footer .verlehaut {
     display: none;
 }
 
-.technique main .point-contact li div:target + div {
+.technique main .point-contact li div:target ~ div {
     display: block;
+}
+
+.technique main .point-contact .fermer:target + div {
+    display: none;
 }
 
 /* table des katas */
 .technique main div.table-kata {
+    position: relative;
     margin: 20px 0 20px 5%;
     padding: 0 0 0 0;
     width: calc(95% - 5px);
     overflow: auto;
 }
 
+.technique main .table-kata span {
+    position: absolute;
+    z-index: 1;
+    color: white;
+    background-color: black;
+    width: 200px;
+    top: 160px;
+    left: 790px;
+    font-size: 1.4em;
+}
+
 .technique main table {
     background-color: #FFFFFF;
     border-collapse: collapse;
+    border: 5px solid blue;
     color: black;
-    width: 800px;
-    height: 300px;
+    width: 950px;
     margin: 0 5% 0 0;
     padding: 0 5% 0 0;
 }
 
-.technique main table, th, td {
-    border: 2px solid black;
+.technique main table th, td {
+    height: 45px;
+    min-width: 90px;
+    padding: 10px 10px;
 }
 
-.technique main table th, td {
-    min-height: 40px;
-    min-width: 80px;
+.technique main table .jaune {
+    background-color: yellow;
+}
+
+.technique main table .orange {
+    background-color: orange;
+}
+
+.technique main table .vert {
+    background-color: green;
+}
+
+.technique main table .bleu {
+    background-color: blue;
+    color: #FFFFFF;
+}
+
+.technique main table .maron {
+    background-color: saddlebrown;
+    color: #FFFFFF;
+}
+
+.technique main table .noir {
+    background-color: black;
+    color: #FFFFFF;
 }
