@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b9fde71-3290-41d3-8a2c-e9f4c3529c9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/athlete.html" beforeDir="false" afterPath="$PROJECT_DIR$/athlete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/materiel.html" beforeDir="false" afterPath="$PROJECT_DIR$/materiel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/philosophie.html" beforeDir="false" afterPath="$PROJECT_DIR$/philosophie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sante.html" beforeDir="false" afterPath="$PROJECT_DIR$/sante.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/specificite.html" beforeDir="false" afterPath="$PROJECT_DIR$/specificite.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/techniques.html" beforeDir="false" afterPath="$PROJECT_DIR$/techniques.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +77,8 @@
       <workItem from="1616565468583" duration="647000" />
       <workItem from="1616567846526" duration="3055000" />
       <workItem from="1616574224156" duration="490000" />
-      <workItem from="1616583663789" duration="7354000" />
+      <workItem from="1616583663789" duration="7393000" />
+      <workItem from="1616618505249" duration="5490000" />
     </task>
     <task id="LOCAL-00001" summary="début sur l'accueil html 2">
       <created>1615903065540</created>
@@ -225,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616574711531</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="techniques.html: travailler le tableau pour les katas 3 et diver amélioration">
+      <created>1616597380281</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1616597380281</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +254,7 @@
     <MESSAGE value="techniques.html: commencer le tableau pour les katas" />
     <MESSAGE value="techniques.html: travailler le tableau pour les katas" />
     <MESSAGE value="techniques.html: travailler le tableau pour les katas 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="techniques.html: travailler le tableau pour les katas 2" />
+    <MESSAGE value="techniques.html: travailler le tableau pour les katas 3 et diver amélioration" />
+    <option name="LAST_COMMIT_MESSAGE" value="techniques.html: travailler le tableau pour les katas 3 et diver amélioration" />
   </component>
 </project>
