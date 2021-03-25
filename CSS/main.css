@@ -181,13 +181,13 @@ footer .verlehaut {
 /* CSS Techniques */
 /* ************** */
 
-.technique main .img-technique {
+.technique main .img-2par-l {
     width: 100%;
     position: relative;
     z-index: -1;
 }
 
-.technique main .img-technique .technique1 {
+.technique main .img-2par-l .technique1 {
     position: relative;
     background: url("../img/Karate-arme.png");
     background-size: cover;
@@ -197,7 +197,7 @@ footer .verlehaut {
     height: 45vw;
 }
 
-.technique main .img-technique .technique2 {
+.technique main .img-2par-l .technique2 {
     position: relative;
     background: url("../img/self-defense.jpg");
     background-size: cover;
@@ -256,6 +256,23 @@ footer .verlehaut {
     display: none;
 }
 
+/* explicatioin général des technique */
+.technique main figure img {
+    width: 85vw;
+    height: 45vw;
+    padding: 0 0;
+    margin: 0 0;
+}
+
+.technique main figure {
+    display: block;
+    background-color: #FFFFFF;
+    color: black;
+    text-align: center;
+    width: 85vw;
+    height: calc(45vw + 35px);
+}
+
 /* table des katas */
 .technique main div.table-kata {
     position: relative;
@@ -270,7 +287,7 @@ footer .verlehaut {
     z-index: 1;
     color: white;
     background-color: black;
-    width: 200px;
+    width: 220px;
     top: 160px;
     left: 790px;
     font-size: 1.4em;
@@ -279,7 +296,7 @@ footer .verlehaut {
 .technique main table {
     background-color: #FFFFFF;
     border-collapse: collapse;
-    border: 5px solid blue;
+    border: 5px solid #002aff;
     color: black;
     width: 950px;
     margin: 0 5% 0 0;
@@ -287,34 +304,84 @@ footer .verlehaut {
 }
 
 .technique main table th, td {
-    height: 45px;
-    min-width: 90px;
+    height: 50px;
+    min-width: 85px;
+    max-width: 120px;
+}
+
+.technique main table a {
+    display:block;
+    height: 50px;
+    width: 90px;
     padding: 10px 10px;
+    margin: 0 0;
+}
+
+.technique main table .ecartplus a {
+    color: black;
+    pointer-events: none;
+    text-decoration: none;
+}
+
+.technique main table .blanc a, .jaune a, .orange a, .vert a {
+    color: black;
+}
+
+.technique main table .bleu a, .maron a, .noir a {
+    color: #FFFFFF;
 }
 
 .technique main table .jaune {
-    background-color: yellow;
+    background-color: #ffdd00;
 }
 
 .technique main table .orange {
-    background-color: orange;
+    background-color: #ff6f00;
 }
 
 .technique main table .vert {
-    background-color: green;
+    background-color: #006200;
 }
 
 .technique main table .bleu {
-    background-color: blue;
+    background-color: #0800ff;
     color: #FFFFFF;
 }
 
 .technique main table .maron {
-    background-color: saddlebrown;
+    background-color: #692e0f;
     color: #FFFFFF;
 }
 
-.technique main table .noir {
+.technique main table .noir, .noir a {
     background-color: black;
     color: #FFFFFF;
+}
+
+/* matériel */
+.materiel main .img-2par-l {
+    width: 100%;
+    position: relative;
+    z-index: -1;
+    background-color: #FFFFFF;
+}
+
+.materiel main .img-2par-l .materiel1 {
+    position: relative;
+    background: url("../img/GiKarate.jpg");
+    background-size: cover;
+    background-position: top 0 left 50%;
+    display: inline-block;
+    width: 50%;
+    height: 45vw;
+}
+
+.materiel main .img-2par-l .materiel2 {
+    position: relative;
+    background: url("../img/Cinture.jpg");
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    width: 50%;
+    height: 45vw;
 }
