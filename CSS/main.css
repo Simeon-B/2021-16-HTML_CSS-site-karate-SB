@@ -358,19 +358,22 @@ footer .verlehaut {
     color: #FFFFFF;
 }
 
+/* ************** ************** ************** ************** */
 /* matériel */
+/* ************** */
+
 .materiel main .img-2par-l {
     width: 100%;
     position: relative;
     z-index: -1;
     background-color: #FFFFFF;
+    padding: 0 0;
 }
 
 .materiel main .img-2par-l .materiel1 {
     position: relative;
-    background: url("../img/GiKarate.jpg");
-    background-size: cover;
-    background-position: top 0 left 50%;
+    background: url("../img/GiKarate.jpg") no-repeat center;
+    background-size: contain;
     display: inline-block;
     width: 50%;
     height: 45vw;
@@ -378,10 +381,29 @@ footer .verlehaut {
 
 .materiel main .img-2par-l .materiel2 {
     position: relative;
-    background: url("../img/Cinture.jpg");
-    background-size: cover;
-    background-position: center;
+    background: url("../img/Cinture.jpg") no-repeat  center;
+    background-size: contain;
     display: inline-block;
     width: 50%;
     height: 45vw;
+}
+
+/* ************** ************** ************** ************** */
+/* athlete */
+/* ************** */
+
+.athlete main .imgpassion {
+    background: url("../img/passion.jpg") no-repeat;
+    background-size: 100% 50vw;
+    text-align: center;
+    width: 100%;
+    height: 50vw;
+    padding: 0 0;
+}
+
+.athlete main .imgpassion img{
+    width: 80%;
+    height: 50vw;
+    padding: 0 0;
+    margin: 0 0;
 }
