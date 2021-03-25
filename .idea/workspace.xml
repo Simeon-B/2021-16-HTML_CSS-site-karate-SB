@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b9fde71-3290-41d3-8a2c-e9f4c3529c9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/Passion-Karate.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/athlete.html" beforeDir="false" afterPath="$PROJECT_DIR$/athlete.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sante.html" beforeDir="false" afterPath="$PROJECT_DIR$/sante.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +80,7 @@
       <workItem from="1616583663789" duration="7393000" />
       <workItem from="1616618505249" duration="5527000" />
       <workItem from="1616652118940" duration="10726000" />
-      <workItem from="1616678359098" duration="3988000" />
+      <workItem from="1616678359098" duration="4445000" />
     </task>
     <task id="LOCAL-00001" summary="début sur l'accueil html 2">
       <created>1615903065540</created>
@@ -253,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616663182454</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="sante.html la parti HTML">
+      <created>1616689306690</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1616689306690</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,6 +288,7 @@
     <MESSAGE value="techniques.html: diver amélioration" />
     <MESSAGE value="techniques.html: diver amélioration 2" />
     <MESSAGE value="materiel.html la parti HTML" />
-    <option name="LAST_COMMIT_MESSAGE" value="materiel.html la parti HTML" />
+    <MESSAGE value="sante.html la parti HTML" />
+    <option name="LAST_COMMIT_MESSAGE" value="sante.html la parti HTML" />
   </component>
 </project>
