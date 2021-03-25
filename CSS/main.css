@@ -135,7 +135,30 @@ header .menu:hover .scroll-menu {
 /* ************** */
 /* CSS main */
 /* ************** */
+main .titre {
+    position: relative;
+    height: 65px;
+    padding: 10px 0 0 0;
+    width: 90%;
+    margin: 0 auto 15px auto;
+    border: #ffd332 solid;
+    border-width: 0 0 5px 0;
+    z-index: -1;
+}
 
+main .titre h1 {
+    margin: 20px 0 0 0;
+    z-index: -1;
+}
+
+main .titre svg {
+    position: absolute;
+    max-width: 3em;
+    fill: #ffc000;
+    top: 5px;
+    right: 1px;
+    z-index: -1;
+}
 
 main {
     margin: 40px 0 0 0;
@@ -403,6 +426,17 @@ footer .verlehaut {
 
 .athlete main .imgpassion img{
     width: 80%;
+    height: 50vw;
+    padding: 0 0;
+    margin: 0 0;
+}
+
+/* ************** ************** ************** ************** */
+/* athlete */
+/* ************** */
+
+.sante main img{
+    width: 100%;
     height: 50vw;
     padding: 0 0;
     margin: 0 0;
