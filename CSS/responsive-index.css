@@ -1,3 +1,7 @@
+/* ************** */
+/* CSS responsive accueil / index */
+/* ************** ************** ************** ************** */
+
 @media screen and (max-width: 349px){
 	header div.logo-ensemble {
 		width: 157px;

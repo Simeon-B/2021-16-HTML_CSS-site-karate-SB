@@ -1,0 +1,32 @@
+/* ************** */
+/* CSS responsive global */
+/* ************** ************** ************** ************** */
+
+@media screen and (max-width: 349px){
+    html {
+        width: 325px;
+    }
+    .technique main .img-2par-l {
+        width: 324px;
+    }
+
+    .technique main .img-2par-l .technique1 {
+        width: 162px;
+        height: 155px;
+    }
+
+    .technique main .img-2par-l .technique2 {
+        width: 162px;
+        height: 155px;
+    }
+
+    .technique main figure img {
+        width: 300px;
+        height: 150px;
+    }
+
+    .technique main figure {
+        width: 300px;
+        height: 185px;
+    }
+}

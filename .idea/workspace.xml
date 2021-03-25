@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b9fde71-3290-41d3-8a2c-e9f4c3529c9e" name="Default Changelist" comment="techniques.html: diver amélioration">
+    <list default="true" id="0b9fde71-3290-41d3-8a2c-e9f4c3529c9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/responsive-index.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/responsive-index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/responsive.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/materiel.html" beforeDir="false" afterPath="$PROJECT_DIR$/materiel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/techniques.html" beforeDir="false" afterPath="$PROJECT_DIR$/techniques.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,7 @@
       <workItem from="1616574224156" duration="490000" />
       <workItem from="1616583663789" duration="7393000" />
       <workItem from="1616618505249" duration="5527000" />
-      <workItem from="1616652118940" duration="4441000" />
+      <workItem from="1616652118940" duration="7101000" />
     </task>
     <task id="LOCAL-00001" summary="début sur l'accueil html 2">
       <created>1615903065540</created>
@@ -237,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616624103271</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="techniques.html: diver amélioration 2">
+      <created>1616657383433</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1616657383433</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,6 +273,7 @@
     <MESSAGE value="techniques.html: travailler le tableau pour les katas 2" />
     <MESSAGE value="techniques.html: travailler le tableau pour les katas 3 et diver amélioration" />
     <MESSAGE value="techniques.html: diver amélioration" />
-    <option name="LAST_COMMIT_MESSAGE" value="techniques.html: diver amélioration" />
+    <MESSAGE value="techniques.html: diver amélioration 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="techniques.html: diver amélioration 2" />
   </component>
 </project>
