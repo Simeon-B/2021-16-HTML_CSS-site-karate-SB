@@ -82,11 +82,37 @@ body.accueil {
     font-size: 1.2rem;
 }
 
+/* régler les icons de la liste du menu */
 .accueil header ul.menu-liste svg {
     margin: -0.4rem 1.2rem 0 0;
     width: 1.2rem;
     fill: black;
     float: right;
+}
+
+.accueil header ul.menu-liste .yoko-geri {
+    margin: -0.4rem 1.2rem 0 0;
+    width: 1.5rem;
+}
+
+.accueil header ul.menu-liste .giakusuki {
+    margin: -0.4rem 1.2rem 0 0;
+    width: 1.8rem;
+}
+
+.accueil header ul.menu-liste .shoto-uke {
+    margin: -0.5rem 1.2rem 0 0;
+    width: 1.4rem;
+}
+
+.accueil header ul.menu-liste .gedan-barai {
+    margin: -0.4rem 1.2rem 0 0;
+    width: 1.4rem;
+}
+
+.accueil header ul.menu-liste .suki {
+    margin: -0.4rem 1.2rem 0 0;
+    width: 1rem;
 }
 
 /* ************** */
