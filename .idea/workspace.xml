@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b9fde71-3290-41d3-8a2c-e9f4c3529c9e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/main-index.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/main-index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/Schoto.svg" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/Schoto.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/athlete.html" beforeDir="false" afterPath="$PROJECT_DIR$/athlete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/materiel.html" beforeDir="false" afterPath="$PROJECT_DIR$/materiel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/philosophie.html" beforeDir="false" afterPath="$PROJECT_DIR$/philosophie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sante.html" beforeDir="false" afterPath="$PROJECT_DIR$/sante.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/techniques.html" beforeDir="false" afterPath="$PROJECT_DIR$/techniques.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/Gedan.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/Kanji-karate.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/Kombat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/Ouisuki.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/Schoto.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/Sesam.svg" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/Sesam.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/Soleil.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/Suki.svg" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/Suki.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/Uke.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +90,7 @@
       <workItem from="1616678359098" duration="10173000" />
       <workItem from="1616748757127" duration="73000" />
       <workItem from="1616765145987" duration="751000" />
-      <workItem from="1616775913465" duration="594000" />
+      <workItem from="1616775913465" duration="1199000" />
     </task>
     <task id="LOCAL-00001" summary="début sur l'accueil html 2">
       <created>1615903065540</created>
@@ -281,14 +281,20 @@
       <option name="project" value="LOCAL" />
       <updated>1616702106460</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="divers amélioration">
+      <created>1616776683612</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1616776683612</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="début sur l'accueil html 2" />
     <MESSAGE value="main page accueil" />
     <MESSAGE value="main page accueil 2" />
     <MESSAGE value="tester entourer une image avec du texte" />
@@ -313,6 +319,7 @@
     <MESSAGE value="materiel.html la parti HTML" />
     <MESSAGE value="sante.html la parti HTML" />
     <MESSAGE value="h1 amélioration des titres" />
-    <option name="LAST_COMMIT_MESSAGE" value="h1 amélioration des titres" />
+    <MESSAGE value="divers amélioration" />
+    <option name="LAST_COMMIT_MESSAGE" value="divers amélioration" />
   </component>
 </project>
