@@ -50,6 +50,11 @@ h2 {
     text-align: center;
 }
 
+body .maxlarge{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
 /* ************** */
 /* CSS header */
 /* ************** */
@@ -218,6 +223,7 @@ footer .verlehaut {
     display: inline-block;
     width: 50%;
     height: 45vw;
+    max-height: 400px;
 }
 
 .technique main .img-2par-l .technique2 {
@@ -228,6 +234,7 @@ footer .verlehaut {
     display: inline-block;
     width: 50%;
     height: 45vw;
+    max-height: 400px;
 }
 
 /* liste des point de contact */
@@ -237,6 +244,8 @@ footer .verlehaut {
 
 .technique main .point-contact .img {
     width: 100%;
+    max-width: 700px;
+    max-height: 280px;
     background-color: #FFFFFF;
     text-align: center;
 }
