@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b9fde71-3290-41d3-8a2c-e9f4c3529c9e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/IMG/Play.svg" beforeDir="false" />
+    <list default="true" id="0b9fde71-3290-41d3-8a2c-e9f4c3529c9e" name="Default Changelist" comment="Ajouter icons aux images">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/materiel.html" beforeDir="false" afterPath="$PROJECT_DIR$/materiel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/techniques.html" beforeDir="false" afterPath="$PROJECT_DIR$/techniques.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +33,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../modules/ICT M101 HTML CSS 1/WebstormProjects/Web-baby" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -85,7 +92,7 @@
       <workItem from="1616775913465" duration="1241000" />
       <workItem from="1616996474417" duration="1454000" />
       <workItem from="1617031028374" duration="1550000" />
-      <workItem from="1617100519853" duration="1354000" />
+      <workItem from="1617100519853" duration="13244000" />
     </task>
     <task id="LOCAL-00001" summary="début sur l'accueil html 2">
       <created>1615903065540</created>
@@ -311,14 +318,27 @@
       <option name="project" value="LOCAL" />
       <updated>1617102673432</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Ajouter icons aux images">
+      <created>1617103643766</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1617103643766</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Ajouter icons aux images">
+      <created>1617103655518</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1617103655518</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="tester entourer une image avec du texte 2" />
     <MESSAGE value="tester entourer une image avec du texte 3" />
     <MESSAGE value="Premier point de réussite de la page accueil" />
     <MESSAGE value="Commencer la page spécificité" />
@@ -343,6 +363,7 @@
     <MESSAGE value="échanger les SVG" />
     <MESSAGE value="divers" />
     <MESSAGE value="Ajouter icon play aux images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajouter icon play aux images" />
+    <MESSAGE value="Ajouter icons aux images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajouter icons aux images" />
   </component>
 </project>
