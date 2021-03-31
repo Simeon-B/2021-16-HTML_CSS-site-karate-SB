@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b9fde71-3290-41d3-8a2c-e9f4c3529c9e" name="Default Changelist" comment="Ajouter icons aux images">
+    <list default="true" id="0b9fde71-3290-41d3-8a2c-e9f4c3529c9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/materiel.html" beforeDir="false" afterPath="$PROJECT_DIR$/materiel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/responsive.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/techniques.html" beforeDir="false" afterPath="$PROJECT_DIR$/techniques.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +93,8 @@
       <workItem from="1616775913465" duration="1241000" />
       <workItem from="1616996474417" duration="1454000" />
       <workItem from="1617031028374" duration="1550000" />
-      <workItem from="1617100519853" duration="13244000" />
+      <workItem from="1617100519853" duration="13337000" />
+      <workItem from="1617163286589" duration="4370000" />
     </task>
     <task id="LOCAL-00001" summary="début sur l'accueil html 2">
       <created>1615903065540</created>
@@ -332,14 +334,20 @@
       <option name="project" value="LOCAL" />
       <updated>1617103655518</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="techniques.html divers améliorations">
+      <created>1617116148665</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1617116148665</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="tester entourer une image avec du texte 3" />
     <MESSAGE value="Premier point de réussite de la page accueil" />
     <MESSAGE value="Commencer la page spécificité" />
     <MESSAGE value="reorganisation des fichiers CSS" />
@@ -364,6 +372,7 @@
     <MESSAGE value="divers" />
     <MESSAGE value="Ajouter icon play aux images" />
     <MESSAGE value="Ajouter icons aux images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajouter icons aux images" />
+    <MESSAGE value="techniques.html divers améliorations" />
+    <option name="LAST_COMMIT_MESSAGE" value="techniques.html divers améliorations" />
   </component>
 </project>

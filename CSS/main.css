@@ -8,7 +8,7 @@
 body {
     background-color: #000000;
     color: #FFFFFF;
-    font-size: 1em;
+    font-size: 1.2em;
     line-height: 1.4;
     font-family: 'Merriweather Sans', sans-serif;
     font-weight: 400;
@@ -165,6 +165,10 @@ main .titre svg {
     z-index: -1;
 }
 
+main h2 {
+    margin: 20px 0 5px 0;
+}
+
 main {
     margin: 40px 0 0 0;
 }
@@ -288,27 +292,46 @@ footer .verlehaut {
     display: none;
 }
 
-/* explicatioin général des technique */
-.technique main figure img {
+/* explication général des technique ******** ******** ******** */
+.technique main .exemple-technique img {
     width: 85vw;
+    max-width: 650px;
     height: 45vw;
+    max-height: 300px;
     padding: 0 0;
     margin: 0 0;
 }
 
-.technique main figure {
+.technique main .exemple-technique {
     display: block;
     background-color: #FFFFFF;
     color: black;
     text-align: center;
+    max-width: 720px;
     width: 85vw;
+    max-height: 335px;
     height: calc(45vw + 35px);
 }
 
-/* table des katas */
-.technique main div.table-kata {
+/* table des katas ******** ******** ******** ******** ******** */
+.technique main .icon-info {
+    width: 2rem;
+    fill: white;
+    margin: 0 10px auto 0;
+}
+
+.technique main .table-info {
     position: relative;
-    margin: 20px 0 20px 5%;
+    padding: 10px 0 2px 0;
+}
+
+.technique main .table-info .info-tactile {
+    display: none;
+}
+
+.technique main .table-kata {
+    position: relative;
+    margin: 5px 0 20px 5%;
     padding: 0 0 0 0;
     width: calc(95% - 5px);
     overflow: auto;
@@ -335,10 +358,27 @@ footer .verlehaut {
     padding: 0 5% 0 0;
 }
 
-.technique main table th, td {
+.technique main table th,
+.technique main table td {
+    position: relative;
     height: 50px;
     min-width: 85px;
     max-width: 120px;
+}
+
+.technique main table .icon-play {
+    position: absolute;
+    width: 20px;
+    bottom: 10px;
+    right: 10px;
+    fill: red;
+}
+
+.technique main table .drop-titre{
+    background-color: rgb(255, 183, 123);
+    font-size: 1rem;
+    color: black;
+    display: none;
 }
 
 .technique main table a {

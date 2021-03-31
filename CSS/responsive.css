@@ -30,3 +30,44 @@
         height: 185px;
     }
 }
+
+@media screen and (max-width: 380px) {
+    .technique main .icon-info {
+        width: 2rem;
+        fill: white;
+        margin: 0 10px 15px 0;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .technique main table th:hover span,
+    .technique main table td:hover span {
+        display: inline;
+        position: absolute;
+        top: 10px;
+        left: 10px;
+    }
+
+    .technique main .table-info .info-non-tac {
+        display: none;
+    }
+
+    .technique main .table-info .info-tactile {
+        display: inline-block;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .technique main .table-info span {
+        display: inline-block;
+        width: 80%;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .technique main .table-info span {
+        position: absolute;
+        top: 8px;
+        left: 43px;
+    }
+}
