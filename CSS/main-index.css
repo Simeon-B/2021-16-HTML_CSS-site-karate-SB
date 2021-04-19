@@ -8,7 +8,7 @@
 
 body.accueil {
     background: #9CBDE2 url(../img/Brouillard.jpg) no-repeat;
-    background-size: 1000px;
+    background-size: 1100px;
 }
 
 /* ************** */
@@ -144,13 +144,17 @@ body.accueil main h1 {
     color: blue;
 }
 
+:root {
+    --hauteur: 770px;
+}
+
 /* à alignéer yu fond */
 body.accueil main div .tour-image {
     padding: 0 0 0 0;
     width: 300px;
-    height: 620px;
+    height: var(--hauteur);
     float: right;
-    shape-outside: polygon(300px 250px, 300px 620px, 0 620px, 0 560px, 35px 540px, 39px 480px, 141px 410px, 156px 330px, 180px 280px, 225px 250px);
+    shape-outside: polygon(300px calc(var(--hauteur) - 370px), 300px var(--hauteur), 0 var(--hauteur), 0 calc(var(--hauteur) - 60px), 35px calc(var(--hauteur) - 80px), 39px calc(var(--hauteur) - 140px), 141px calc(var(--hauteur) - 210px), 156px calc(var(--hauteur) - 290px), 180px calc(var(--hauteur) - 340px), 225px calc(var(--hauteur) - 370px));
 }
 
 /* ************** */
@@ -165,14 +169,14 @@ body.accueil .pseudofooter{
 
 body.accueil .pseudofooter img {
     position: absolute;
-    top: 240px;
+    top: calc(var(--hauteur) - 380px);
     right: 2px;
     width: 300px;
 }
 
 body.accueil .pseudofooter a.verlehaut {
     position: absolute;
-    top: 500px;
+    top: calc(var(--hauteur) - 120px);
     right: 20px;
     width: 50px;
     fill: #425B79;

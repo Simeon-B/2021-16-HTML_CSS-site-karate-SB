@@ -1,6 +1,12 @@
 /* ************** */
 /* CSS responsive accueil / index */
 /* ************** ************** ************** ************** */
+@media screen and (min-width: 340px){
+
+	:root {
+		--hauteur: 720px;
+	}
+}
 
 @media screen and (max-width: 349px){
 	header div.logo-ensemble {
@@ -35,6 +41,10 @@
 	header ul.menu-liste {
 		margin: 0 10% 0 10%;
 	}
+
+	:root {
+		--hauteur: 700px;
+	}
 }
 
 @media screen and (min-width: 360px){
@@ -43,17 +53,14 @@
 		font-size: 2em;
 	}
 
-	body.accueil main div .tour-image {
-		height: 580px;
-		shape-outside: polygon(300px 180px, 300px 550px, 0 550px, 0 490px, 35px 470px, 39px 410px, 141px 340px, 156px 260px, 180px 210px, 225px 180px);
+	:root {
+		--hauteur: 685px;
 	}
+}
 
-	body.accueil .pseudofooter img {
-		top: 170px;
-	}
-
-	body.accueil .pseudofooter a.verlehaut {
-		top: 470px;
+@media screen and (min-width: 370px){
+	:root {
+		--hauteur: 660px;
 	}
 }
 
@@ -63,37 +70,50 @@
 		font-size: 2.2em;
 	}
 
-	body.accueil main div .tour-image {
-		height: 520px;
-		shape-outside: polygon(300px 150px, 300px 520px, 0 520px, 0 460px, 35px 440px, 39px 380px, 141px 310px, 156px 210px, 180px 180px, 225px 150px);
+	:root {
+		--hauteur: 640px;
 	}
+}
 
-	body.accueil .pseudofooter img {
-		top: 140px;
+@media screen and (min-width: 395px){
+	:root {
+		--hauteur: 620px;
 	}
+}
 
-	body.accueil .pseudofooter a.verlehaut {
-		top: 430px;
+@media screen and (min-width: 400px){
+	:root {
+		--hauteur: 610px;
+	}
+}
+
+@media screen and (min-width: 410px){
+	:root {
+		--hauteur: 585px;
+	}
+}
+
+@media screen and (min-width: 425px){
+	:root {
+		--hauteur: 565px;
 	}
 }
 
 @media screen and (min-width: 430px){
-
-	.accueil .titre-entete {
-		font-size: 2.4em;
+	:root {
+		--hauteur: 540px;
 	}
+}
 
-	body.accueil main div .tour-image {
-		height: 450px;
-		shape-outside: polygon(300px 80px, 300px 450px, 0 450px, 0 390px, 35px 370px, 39px 310px, 141px 240px, 156px 160px, 180px 110px, 225px 80px);
+@media screen and (min-width: 440px){
+	:root {
+		--hauteur: 525px;
 	}
+}
 
-	body.accueil .pseudofooter img {
-		top: 70px;
-	}
-
-	body.accueil .pseudofooter a.verlehaut {
-		top: 360px;
+@media screen and (min-width: 450px){
+	:root {
+		--hauteur: 515px;
 	}
 }
 
@@ -102,18 +122,84 @@
 	.accueil .titre-entete {
 		font-size: 2.7em;
 	}
+	:root {
+		--hauteur: 510px;
+	}
+}
 
-	body.accueil main div .tour-image {
-		height: 400px;
-		shape-outside: polygon(300px 30px, 300px 400px, 0 400px, 0 340px, 35px 320px, 39px 260px, 141px 190px, 156px 110px, 180px 60px, 225px 30px);
+@media screen and (min-width: 470px){
+	:root {
+		--hauteur: 490px;
+	}
+}
+
+@media screen and (min-width: 480px){
+	:root {
+		--hauteur: 475px;
+	}
+}
+
+@media screen and (min-width: 490px){
+	:root {
+		--hauteur: 465px;
+	}
+}
+
+@media screen and (min-width: 500px){
+	:root {
+		--hauteur: 450px;
+	}
+}
+
+@media screen and (min-width: 510px){
+	:root {
+		--hauteur: 445px;
+	}
+}
+
+@media screen and (min-width: 520px){
+	:root {
+		--hauteur: 435px;
+	}
+}
+
+@media screen and (min-width: 530px){
+	:root {
+		--hauteur: 425px;
+	}
+}
+
+@media screen and (min-width: 550px){
+	:root {
+		--hauteur: 415px;
+	}
+}
+
+@media screen and (min-width: 570px){
+	:root {
+		--hauteur: 400px;
+	}
+}
+
+@media screen and (min-width: 590px){
+	:root {
+		--hauteur: 380px;
 	}
 
-	body.accueil .pseudofooter img {
-		top: 20px;
+	body.accueil {
+		background-size: 1250px;
 	}
+}
 
-	body.accueil .pseudofooter a.verlehaut {
-		top: 320px;
+@media screen and (min-width: 615px){
+	:root {
+		--hauteur: 360px;
+	}
+}
+
+@media screen and (min-width: 650px){
+	:root {
+		--hauteur: 350px;
 	}
 }
 
