@@ -158,10 +158,6 @@ main .titre h1 {
 
 main .titre svg {
     position: absolute;
-    max-width: 3em;
-    fill: #ffc000;
-    top: 5px;
-    right: 1px;
     z-index: -1;
 }
 
@@ -196,8 +192,26 @@ footer .verlehaut {
 }
 
 /* ************** ************** ************** ************** */
+/* CSS Spécificité */
+/* ************** */
+
+.specifite .titre svg {
+    max-width: 2.6em;
+    fill: #ffc000;
+    top: 5px;
+    right: 1px;
+}
+
+/* ************** ************** ************** ************** */
 /* CSS Philosophie */
 /* ************** */
+
+.philosophie .titre svg {
+    max-width: 2.3em;
+    fill: #ffc000;
+    top: 5px;
+    right: 1px;
+}
 
 .philosophie main .funakoshi {
     width: 90%;
@@ -212,6 +226,13 @@ footer .verlehaut {
 /* ************** ************** ************** ************** */
 /* CSS Techniques */
 /* ************** */
+
+.technique .titre svg {
+    max-width: 3em;
+    fill: #ffc000;
+    top: 5px;
+    right: 1px;
+}
 
 .technique main .img-2par-l {
     width: 100%;
@@ -434,6 +455,13 @@ footer .verlehaut {
 /* matériel */
 /* ************** */
 
+.materiel .titre svg {
+    max-width: 2.2em;
+    fill: #ffc000;
+    top: 4px;
+    right: 1px;
+}
+
 .materiel main .img-2par-l {
     width: 100%;
     position: relative;
@@ -464,6 +492,13 @@ footer .verlehaut {
 /* athlete */
 /* ************** */
 
+.athlete .titre svg {
+    max-width: 2.4em;
+    fill: #ffc000;
+    top: 5px;
+    right: 1px;
+}
+
 .athlete main .imgpassion {
     background: url("../img/passion.jpg") no-repeat;
     background-size: 100% 50vw;
@@ -481,8 +516,15 @@ footer .verlehaut {
 }
 
 /* ************** ************** ************** ************** */
-/* athlete */
+/* Santé */
 /* ************** */
+
+.sante .titre svg {
+    max-width: 1.8em;
+    fill: #ffc000;
+    top: 5px;
+    right: 1px;
+}
 
 .sante main img{
     width: 100%;

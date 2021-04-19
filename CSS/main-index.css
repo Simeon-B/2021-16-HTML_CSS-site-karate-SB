@@ -46,6 +46,15 @@ body.accueil {
     left: 38%;
 }
 
+.accueil .titre-entete {
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    transform: translate(0, -50%);
+    color: black;
+    font-size: 1.8em;
+}
+
 /* ************** */
 /* CSS accueil menu */
 /* ************** */

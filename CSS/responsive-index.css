@@ -22,7 +22,27 @@
 	}
 }
 
+@media screen and (min-width: 350px){
+
+	.accueil .titre-entete {
+		font-size: 1.9em;
+	}
+
+	body.accueil {
+		background-size: 1200px;
+	}
+
+	header ul.menu-liste {
+		margin: 0 10% 0 10%;
+	}
+}
+
 @media screen and (min-width: 360px){
+
+	.accueil .titre-entete {
+		font-size: 2em;
+	}
+
 	body.accueil main div .tour-image {
 		height: 580px;
 		shape-outside: polygon(300px 180px, 300px 550px, 0 550px, 0 490px, 35px 470px, 39px 410px, 141px 340px, 156px 260px, 180px 210px, 225px 180px);
@@ -38,6 +58,11 @@
 }
 
 @media screen and (min-width: 380px){
+
+	.accueil .titre-entete {
+		font-size: 2.2em;
+	}
+
 	body.accueil main div .tour-image {
 		height: 520px;
 		shape-outside: polygon(300px 150px, 300px 520px, 0 520px, 0 460px, 35px 440px, 39px 380px, 141px 310px, 156px 210px, 180px 180px, 225px 150px);
@@ -53,6 +78,11 @@
 }
 
 @media screen and (min-width: 430px){
+
+	.accueil .titre-entete {
+		font-size: 2.4em;
+	}
+
 	body.accueil main div .tour-image {
 		height: 450px;
 		shape-outside: polygon(300px 80px, 300px 450px, 0 450px, 0 390px, 35px 370px, 39px 310px, 141px 240px, 156px 160px, 180px 110px, 225px 80px);
@@ -68,6 +98,11 @@
 }
 
 @media screen and (min-width: 460px){
+
+	.accueil .titre-entete {
+		font-size: 2.7em;
+	}
+
 	body.accueil main div .tour-image {
 		height: 400px;
 		shape-outside: polygon(300px 30px, 300px 400px, 0 400px, 0 340px, 35px 320px, 39px 260px, 141px 190px, 156px 110px, 180px 60px, 225px 30px);
@@ -82,18 +117,11 @@
 	}
 }
 
-@media screen and (min-width: 350px){
-
-	body.accueil {
-		background-size: 1200px;
-	}
-
-	header ul.menu-liste {
-		margin: 0 10% 0 10%;
-	}
-}
-
 @media screen and (min-width: 660px) {
+
+	.accueil .titre-entete {
+		font-size: 3em;
+	}
 
 	body.accueil {
 		background-size: 1400px;
